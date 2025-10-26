@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple_fm_react/static/css/main.7a6a58d9.chunk.css",
+    "main.js": "/simple_fm_react/static/js/main.ccd9f509.chunk.js",
+    "main.js.map": "/simple_fm_react/static/js/main.ccd9f509.chunk.js.map",
+    "runtime-main.js": "/simple_fm_react/static/js/runtime-main.efa5e8cf.js",
+    "runtime-main.js.map": "/simple_fm_react/static/js/runtime-main.efa5e8cf.js.map",
+    "static/js/2.e3d69046.chunk.js": "/simple_fm_react/static/js/2.e3d69046.chunk.js",
+    "static/js/2.e3d69046.chunk.js.map": "/simple_fm_react/static/js/2.e3d69046.chunk.js.map",
+    "index.html": "/simple_fm_react/index.html",
+    "static/css/main.7a6a58d9.chunk.css.map": "/simple_fm_react/static/css/main.7a6a58d9.chunk.css.map",
+    "static/js/2.e3d69046.chunk.js.LICENSE.txt": "/simple_fm_react/static/js/2.e3d69046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efa5e8cf.js",
+    "static/js/2.e3d69046.chunk.js",
+    "static/css/main.7a6a58d9.chunk.css",
+    "static/js/main.ccd9f509.chunk.js"
+  ]
+}
